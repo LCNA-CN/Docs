@@ -17,7 +17,7 @@ enableMissingTranslationPlaceholders = false
     # Source Code repository section
     description = "由LCNA构建的在线知识库"
     github_repository = "https://github.com/Zhisheng666"
-    version = "25.03.1"
+    version = "25.03.2"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
@@ -79,8 +79,8 @@ enableMissingTranslationPlaceholders = false
         pre = "<i class='fa fa-heart'></i>&nbsp;"
 
     [[menu.main]]
-        name = "Zhisheng's X/Twitter"
-        url = "https://x.com/Zhishenglus"
+        name = "LCNA Offical X/Twitter"
+        url = "https://x.com/LCNA_Offical"
         weight = 2
         identifier = 'twitter'
         pre = "<b></b> "
@@ -88,15 +88,6 @@ enableMissingTranslationPlaceholders = false
         [menu.main.params]
           class = 'twitter-menu-item'
 
-    [[menu.main]]
-        name = "Zhisheng's X/Twitter"
-        url = "https://x.com/Zhishengplus"
-        weight = 2
-        identifier = 'twitter'
-        pre = "<b></b> "
-        post = " <b></b>"
-        [menu.main.params]
-          class = 'twitter-menu-item'
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
