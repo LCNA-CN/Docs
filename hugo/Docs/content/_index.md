@@ -14,11 +14,11 @@ images:
 ## 欢迎加入LCNA/参与到我们的项目中来！
 
 ### 内容分类
-* [装机（Assemble the computer）](../IT/PC)
-* [操作系统（OS）](../IT//OS)
-* [网络和存储（Network&Storage）](../IT//NS)
-* [东莞开创Minecraft服务器（ DPS/DPMS, Dongguan  Pioneers' Minecraft Server）](../DPS)
-* [医学（Medicine）](../Medicine)
+* [装机（Assemble the computer）](../it/pc)
+* [操作系统（OS）](../it/os)
+* [网络和存储（Network&Storage）](../it/ns)
+* [东莞开创Minecraft服务器（ DPS/DPMS, Dongguan  Pioneers' Minecraft Server）](../dps)
+* [医学（Medicine）](../medicine)
 * [作品（Written by Zhisheng）](../writing)
 
 ### 友情链接
