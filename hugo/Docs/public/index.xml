@@ -6,14 +6,21 @@
     <description>Recent content in 欢迎来到LCNA Docs on LCNA Docs</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 10:22:15 +0000</lastBuildDate>
     <atom:link href="https://docs.lcna.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>LCNA的设备</title>
+      <title>LCNA的设备列表</title>
       <link>https://docs.lcna.cn/it/lcna_devices/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       <guid>https://docs.lcna.cn/it/lcna_devices/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>滨海之城</title>
+      <link>https://docs.lcna.cn/works/poem/bhzc/</link>
+      <pubDate>Sat, 08 Mar 2025 10:22:15 +0000</pubDate>
+      <guid>https://docs.lcna.cn/works/poem/bhzc/</guid>
+      <description>&lt;h3 id=&#34;雪山-矗立在群山之中-覆盖着皑皑白雪-我愿飞往雪山之巅-眺望无边的冰原&#34;&gt;雪山 矗立在群山之中 覆盖着皑皑白雪 我愿飞往雪山之巅 眺望无边的冰原&lt;/h3&gt;&#xA;&lt;h3 id=&#34;新区-开辟于河畔平原-拔地起万丈高楼-我想站在内环路边-一睹城市的变迁&#34;&gt;新区 开辟于河畔平原 拔地起万丈高楼 我想站在内环路边 一睹城市的变迁&lt;/h3&gt;&#xA;&lt;h3 id=&#34;中心-栖息在海旁沙滩-承载着共同回忆-我便走进泥土房子-深入曾探索的矿道&#34;&gt;中心 栖息在海旁沙滩 承载着共同回忆 我便走进泥土房子 深入曾探索的矿道&lt;/h3&gt;&#xA;&lt;h3 id=&#34;沙漠-坐落在山水南边-厚厚黄沙不见边-我愿种出数片绿洲-赞叹生机的无限&#34;&gt;沙漠 坐落在山水南边 厚厚黄沙不见边 我愿种出数片绿洲 赞叹生机的无限&lt;/h3&gt;&#xA;&lt;h3 id=&#34;蘑菇岛-漂浮于暖水海洋-红棕色蘑菇遍布-我不破坏神秘岛屿-保护最后的净土&#34;&gt;蘑菇岛 漂浮于暖水海洋 红棕色蘑菇遍布 我不破坏神秘岛屿 保护最后的净土&lt;/h3&gt;&#xA;&lt;h3 id=&#34;新界-静寂在海洋南边-充满着无限可能-我欲探索未知领域-建设全新的城镇&#34;&gt;新界 静寂在海洋南边 充满着无限可能 我欲探索未知领域 建设全新的城镇&lt;/h3&gt;</description>
     </item>
     <item>
       <title>DPS</title>
@@ -37,24 +44,17 @@
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>公路&amp;大道</title>
-      <link>https://docs.lcna.cn/dps/prs/road/</link>
-      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-      <guid>https://docs.lcna.cn/dps/prs/road/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>地狱快速</title>
       <link>https://docs.lcna.cn/dps/prs/h_line/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       <guid>https://docs.lcna.cn/dps/prs/h_line/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;hx地狱快速是在地狱中直接连接两个地点的轨道由于地狱移动1格等于在主世界移动8格所以可以粗略地认为速度是主世界中轨道的8倍&#34;&gt;Hx/地狱快速是在地狱中直接连接两个地点的轨道，由于地狱移动1格等于在主世界移动8格，所以可以粗略地认为速度是主世界中轨道的8倍！&lt;/h3&gt;</description>
     </item>
     <item>
-      <title>滨海之城</title>
-      <link>https://docs.lcna.cn/works/poem/bhzc/</link>
+      <title>公路&amp;大道</title>
+      <link>https://docs.lcna.cn/dps/prs/road/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-      <guid>https://docs.lcna.cn/works/poem/bhzc/</guid>
+      <guid>https://docs.lcna.cn/dps/prs/road/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
     <item>

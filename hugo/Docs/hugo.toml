@@ -17,7 +17,7 @@ enableMissingTranslationPlaceholders = false
     # Source Code repository section
     description = "由LCNA构建的在线知识库"
     github_repository = "https://github.com/Zhisheng666"
-    version = "25.03.2"
+    version = "25.03.3"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)

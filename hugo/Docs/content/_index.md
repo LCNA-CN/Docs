@@ -19,12 +19,12 @@ images:
 * [网络和存储（Network&Storage）](../it/ns)
 * [东莞开创Minecraft服务器（ DPS/DPMS, Dongguan  Pioneers' Minecraft Server）](../dps)
 * [医学（Medicine）](../medicine)
-* [作品（Written by Zhisheng）](../writing)
+* [作品（Written by Zhisheng）](../works)
 
 ### 友情链接
 * （然而现在还没有呢）
 
-#### --------最后更新于 2025.03.08 Saturday
+#### --------最后更新于 2025.03.09 Sunday
 <!--* 
 * [Custom Shortcodes](sample/custom-shortcodes/)
   * Code highlight with clipboard

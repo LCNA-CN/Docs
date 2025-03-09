@@ -1,7 +1,17 @@
 ---
 title: "滨海之城"
-date: 2017-10-17T15:26:15Z
+date: 2025-03-08T10:22:15Z
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### 雪山 矗立在群山之中 覆盖着皑皑白雪 我愿飞往雪山之巅 眺望无边的冰原
+
+### 新区 开辟于河畔平原 拔地起万丈高楼 我想站在内环路边 一睹城市的变迁
+
+### 中心 栖息在海旁沙滩 承载着共同回忆 我便走进泥土房子 深入曾探索的矿道
+
+### 沙漠 坐落在山水南边 厚厚黄沙不见边 我愿种出数片绿洲 赞叹生机的无限
+
+### 蘑菇岛 漂浮于暖水海洋 红棕色蘑菇遍布 我不破坏神秘岛屿 保护最后的净土
+
+### 新界 静寂在海洋南边 充满着无限可能 我欲探索未知领域 建设全新的城镇
