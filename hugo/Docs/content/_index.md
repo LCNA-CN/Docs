@@ -14,22 +14,14 @@ images:
 ## 欢迎加入LCNA/参与到我们的项目中来！
 
 ### 内容分类
-* [装机（Assemble the computer）](../it/pc)
-* [操作系统（OS）](../it/os)
-* [网络和存储（Network&Storage）](../it/ns)
+* [信息技术（IT）](../it)
 * [东莞开创Minecraft服务器（ DPS/DPMS, Dongguan  Pioneers' Minecraft Server）](../dps)
+* [交通&旅行（Transmit&Travel）](../t2)
 * [医学（Medicine）](../medicine)
 * [作品（Written by Zhisheng）](../works)
 
 ### 友情链接
-* （然而现在还没有呢）
+* [BugDuck开源团队](https://bugduck.org/)
 
-#### --------最后更新于 2025.03.09 Sunday
-<!--* 
-* [Custom Shortcodes](sample/custom-shortcodes/)
-  * Code highlight with clipboard
-  * Alert panel
-  * Button
-* [Search Shortcode](sample/search-shortcode/) powered by [Algolia](https://www.algolia.com/)
-* Open Graph
-* Analytics with Google Analytics, Google Tag Manager
+#### --------最后更新于 2025.03.16 Sunday
+<!--

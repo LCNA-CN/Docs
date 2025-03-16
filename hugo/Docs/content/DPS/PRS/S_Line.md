@@ -4,4 +4,25 @@ date: 2017-10-17T15:26:15Z
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## 连接线是由数条轨道组成的系统，大多采用地下单轨行车设计，部分会有所不同。 
+### 以下为2024.12.07起的新版本：
+
+#### S1［中心纵线］：中心南站 —畔湾—丽苑—主岛中—北山站
+#### S1W [畔湾西支线]：畔湾-畔湾西
+#### S2［中心横线］：主岛西—溺尸塔—区管会—存储中心—中心站—主岛中—主岛东北—主岛东—主岛东南 
+#### S3N［北湖心岛支线］：丽苑—主岛东南—北湖心岛—湖畔村 
+#### S3［湖心岛连接线］：滨湖互通-湖心岛 
+#### S4［远古城市连接线］：滨湖互通-远古城市上-远古城市中-远古城市地下-远古城市二期 
+#### S5：待定
+#### S6：待定
+#### S7［文化区连接线］：文化区东-山水区委会-纪念堂-文化区换乘站-文化区北-存储中心南 
+#### S7W［南村连接线］：南村—南村枢纽—文化区换乘站 
+#### S7N［存储中心连接线］：存储中心南—中—北 
+#### S8［东山连接线］：新区南站—东山村-小岛-东区开发区A-东山岛南—东山岛北—东山中心—东山中心北—东山中心东 
+#### S8W［袭击村连接线］：袭击互通—袭击村—峡谷—小岛 
+#### S9：待定 
+#### S10：待定
+#### S11［新区纵线］S&N 
+#### S12［新区横线］E&W 
+#### S13［新区南/北横］S&N 
+#### S14［新区东/西纵］E&W 

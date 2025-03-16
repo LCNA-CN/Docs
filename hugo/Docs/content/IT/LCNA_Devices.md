@@ -5,4 +5,13 @@ draft: false
 weight: 40
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### DataCenter 24
+#### 承载DPS服务器、CSD服务器等服务
+* 主板：华南金牌 H610m-HD
+* CPU：Intel Core i5-12400 （6C12T，Boost up to 4.3GHz）
+* 内存：DDR4 2666MHz 16Gx2（Intel专用条，镁光颗粒）
+* 显卡：Intel Graphics UHD 730
+* 散热：玄冰400S（采用重力固定）
+* 电源：先马 额定300W
+* 硬盘：1. 台电 8GU盘（UNRAID） 2. 三星PM981A 500G（高速） 3. 西部数据 4T紫盘（海康威视版，低速）
+* 网卡：1. 瑞昱 RJ45 1Gbps（板载） 2. Mellanox SFP+ 10Gbps（PCIe x8）
