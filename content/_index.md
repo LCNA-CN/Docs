@@ -15,13 +15,14 @@ images:
 
 ### 内容分类
 * [信息技术（IT）](../it)
-* [东莞开创Minecraft服务器（ DPS/DPMS, Dongguan  Pioneers' Minecraft Server）](../dps)
-* [交通&旅行（Transmit&Travel）](../t2)
+* [东莞开创Minecraft服务器（DPS）](../dps)
+* [交通（Transmit）](../transmit)
+* [旅行（Travel）](../travel)
 * [医学（Medicine）](../medicine)
 * [作品（Written by Zhisheng）](../works)
 
 ### 友情链接
-* [BugDuck开源团队](https://bugduck.org/)
+* [BugDuck开源团队(https://bugduck.org/)](https://bugduck.org/)
 
-#### --------最后更新于 2025.04.06 Sunday
+#### --------最后更新于 2025.04.19 Saturday
 <!--
