@@ -1,4 +1,4 @@
-徽章: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 本作品采用
 [知识共享署名-相同方式共享 4.0 国际许可协议][cc-by-sa]进行许可。
