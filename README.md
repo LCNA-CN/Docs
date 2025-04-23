@@ -1,3 +1,7 @@
+### Welcome！
+### LCNA Docs是由LCNA构建，Zhisheng主要维护的在线知识库
+#### 欢迎加入LCNA/参与到我们的项目中来！
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 本作品采用
