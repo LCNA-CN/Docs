@@ -8,6 +8,3 @@ weight: 40
 {{% panel status="primary" title="Note" icon="far fa-lightbulb" %}}
 The document hierarchy is unlimited.
 {{% /panel %}}
-
-
-* [地铁（Metro）](../metro)
