@@ -1,7 +1,6 @@
 ---
 title: "助人技术 主题演讲"
-date: 2025-04-26T09:26:15
-timezone: UTC+8
+date: 2025-04-26T09:26:15+08:00
 draft: false
 ---
 
