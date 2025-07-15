@@ -12,3 +12,7 @@ weight: 30
 {{% /panel %}}
 
 * [地铁（Metro）](../metro)
+* [广深港高铁（GZ-SZ-HK_HSR）](../gshhsr)
+* [穗深城际（GZ-SZ_Intercity）](../ssir)
+* [广惠广肇城际（GZ-HZ&GZ-ZQ_Intercity）](../ghgzir)
+
