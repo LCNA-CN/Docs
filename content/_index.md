@@ -22,11 +22,11 @@ images:
 
 ### 其它页面
 * [六和中心(LiuheCenter)](https://lcna.cn)
+* [六和中心在线商店(LiuheCenter_eStore)](https://store.lcna.cn)
 * [ZhishengPlus](https://blog.lcna.cn)
-
 ### 友情链接
 * [BugDuck(https://bugduck.org)](https://bugduck.org)
 * [n1ghts4kura(https://s4kura.cc)](https://s4kura.cc)
 
-#### --------最后更新于 2025.07.10 Thursday
+#### --------最后更新于 2025.07.23 Wednesday
 <!--
