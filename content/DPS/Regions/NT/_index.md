@@ -5,5 +5,12 @@ draft: false
 weight: 20
 ---
 
-### 通过下面的条目，你可以清晰地了解DPS中的一切！
-### 让我们开始吧！
+### 新界（New Territories）是DPS中第二个城市，位于滨海湾市南侧
+### 下属 沙城、海洋、太平、东岼 共计四个管理区
+
+---
+
+#### 沙城 Dersert
+#### 海洋 Ocean
+#### 太平 Pacific
+#### 东岼 Cliff

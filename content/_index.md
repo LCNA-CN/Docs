@@ -17,12 +17,16 @@ images:
 * [信息技术（IT）](../it)
 * [东莞开创Minecraft服务器（DPS）](../dps)
 * [交通（Transmit）](../transmit)
-* [旅行（Travel）](../travel)
 * [医学（Medicine）](../medicine)
-* [作品（Written by Zhisheng）](../works)
+* [作品（Works）By Zhisheng](../works)
 
+### 其它页面
+* [六和中心(LiuheCenter)](https://lcna.cn)
+* [六和中心在线商店(LiuheCenter_eStore)](https://store.lcna.cn)
+* [ZhishengPlus](https://blog.lcna.cn)
 ### 友情链接
-* [BugDuck开源团队(https://bugduck.org/)](https://bugduck.org/)
+* [BugDuck(https://bugduck.org)](https://bugduck.org)
+* [n1ghts4kura(https://s4kura.cc)](https://s4kura.cc)
 
-#### --------最后更新于 2025.04.19 Saturday
+#### --------最后更新于 2025.07.23 Wednesday
 <!--

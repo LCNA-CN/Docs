@@ -5,8 +5,8 @@ draft: false
 weight: 20
 ---
 
-### 滨海湾是DPS中第一个也是最重要的城市
-### 下属 中心、山水、西区、东区、滨城(新区)、西正、东正 共计七个管理区
+### 滨海湾（Binhai Bay）是DPS中第一个也是最重要的城市
+### 下属 中心、山水、西区、东区、北正 共计五个管理区
 
 ---
 
@@ -20,6 +20,4 @@ weight: 20
 #### 山水 Shanshui
 #### 西区 West Region
 #### 东区 East Region
-#### 滨城（新区） Binhai City(New Region)
-#### 西正 West Zen
-#### 东正 East Zen
+#### 北正 North Zen

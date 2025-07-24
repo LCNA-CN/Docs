@@ -32,4 +32,29 @@ weight: 40
 ### 二号线三期（南延段）预计于2026年年底通车：
 * （略）
 ### 一号线 / Line 1 预计于2025年年中通车
-* （略）
+#### 01 东莞西站（DongguanXi Railway Station）
+* 可换乘 穗深城际铁路、广惠城际铁路
+#### 02 厚德（Hou De）
+#### 03 昌平（Chang Ping）
+#### 04 人民医院（People's Hospital）
+#### 05 曲海（Qu Hai）
+#### 06 坝头（Ba Tou）
+#### 07 元美（Yuan Mei）
+#### 08 中心广场（Central Square）
+#### 09 市民中心（Citizen Center）
+#### 10 立新（Li Xin）
+#### 11 东城南（Dong Cheng South）
+#### 12 同沙公园（Tong Sha Park）
+#### 13 牛山（Niu Shan）
+#### 14 连平（Lian Ping）
+#### 15 大岭山（Da Ling Shan）
+#### 16 金桔（Jin Ji）
+#### 17 广东医大（GDMU）
+#### 18 松山湖（SSL）
+#### 19 松佛（Song Fo）
+#### 20 大朗（Da Lang）
+#### 21 荔香公园（Li Xiang Park）
+#### 22 风山（Feng Shan）
+#### 23 黄江（Huang Jiang）
+#### 24 黄牛浦（Huang Niu Pu）
+#### 25 梅塘（Mei Tang）

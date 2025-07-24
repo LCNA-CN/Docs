@@ -6,7 +6,7 @@ menu = "main"
 
 ## 东莞开创Minecraft服务器 / Dongguan Pioneers' Minecraft Server
 ## 一个原版生电&轨道交通服务器，欢迎你的加入！
-### 由Zhisheng担任服主，在Liuhe Center运行，成立于July 2022
+### 由Zhisheng担任服主，在Liuhe Center运行，成立于July 2020
 ### [#DPS文档 首页](../dps)
 
 #### 下分章节：
