@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="zh-cn">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <title>连接线 - LCNA Docs</title>
 <meta name="description" content="由LCNA构建的在线知识库">
 <meta name="generator" content="Hugo 0.142.0">
-<link href="//localhost:1313//index.xml" rel="alternate" type="application/rss+xml">
-<link rel="canonical" href="//localhost:1313/dps/prs/s_line/">
-<link rel="stylesheet" href="//localhost:1313/css/theme.min.css">
-<link rel="stylesheet" href="//localhost:1313/css/chroma.min.css">
-<script defer src="//localhost:1313//js/fontawesome6/all.min.js"></script>
+<link href="//index.xml" rel="alternate" type="application/rss+xml">
+<link rel="canonical" href="/dps/prs/s_line/">
+<link rel="stylesheet" href="/css/theme.min.css">
+<link rel="stylesheet" href="/css/chroma.min.css">
+<script defer src="//js/fontawesome6/all.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/jquery.easing@1.4.1/jquery.easing.min.js" integrity="" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js" integrity="" crossorigin="anonymous"></script>
-<script src="//localhost:1313/js/bundle.js"></script><style>
+<script src="/js/bundle.js"></script><style>
 :root {}
 </style>
-<meta property="og:url" content="//localhost:1313/dps/prs/s_line/">
+<meta property="og:url" content="/dps/prs/s_line/">
   <meta property="og:site_name" content="LCNA Docs">
   <meta property="og:title" content="连接线">
   <meta property="og:description" content="连接线是由数条轨道组成的系统，大多采用地下单轨行车设计，部分会有所不同。 最后修改于：2025.04.25 Saturday S1［中心纵线］： 中心南站 —畔湾—丽苑—主岛中—北山南 S1N［中心北线］： 中心站—北山西—北山南—北山站 S1W [畔湾西支线]： 畔湾-畔湾西 S2［中心横线］： 主岛西—溺尸塔—区管会—存储中心—中心站—主岛中—主岛东—主岛东南 S3［湖心岛连接线］： 滨湖互通-湖心岛 S3N［北湖心岛支线］： 丽苑—主岛东南—北湖心岛—湖畔村 S4［远古城市连接线］： 滨湖互通-远古城市上-远古城市中-远古城市地下-远古城市二期 S5［西山连接线］： 西山北—西山开发区 S6［山水连接线］： 山水枢纽—山水区管会-山水南 S6W [山水西线]： 平地岛-树林岛 S7［文化区连接线］： 文化区东-山水区委会-纪念堂-文化区换乘站-文化区北-存储中心南 S7W［南村连接线］： 南村—南村枢纽—文化区换乘站 S7N［存储中心连接线］： 存储中心南—中—北 S8［东山连接线］： 新区南站—东山村-小岛-东山隧道北-东山隧道南—东山岛 S8W［袭击村连接线］： 袭击互通—袭击村—峡谷—小岛 S8E [东南连接线] ：待定 S9：待定 S10：待定 S11［新区纵线］S&amp;N S12［新区横线］E&amp;W S13［新区南/北横］S&amp;N S14［新区东/西纵］E&amp;W">
@@ -26,10 +26,10 @@
     <meta property="article:section" content="dps">
     <meta property="article:published_time" content="2025-03-22T15:26:15+00:00">
     <meta property="article:modified_time" content="2025-03-22T15:26:15+00:00">
-    <meta property="og:image" content="//localhost:1313/images/og-image.png">
+    <meta property="og:image" content="/images/og-image.png">
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="//localhost:1313/images/og-image.png">
+  <meta name="twitter:image" content="/images/og-image.png">
   <meta name="twitter:title" content="连接线">
   <meta name="twitter:description" content="连接线是由数条轨道组成的系统，大多采用地下单轨行车设计，部分会有所不同。 最后修改于：2025.04.25 Saturday S1［中心纵线］： 中心南站 —畔湾—丽苑—主岛中—北山南 S1N［中心北线］： 中心站—北山西—北山南—北山站 S1W [畔湾西支线]： 畔湾-畔湾西 S2［中心横线］： 主岛西—溺尸塔—区管会—存储中心—中心站—主岛中—主岛东—主岛东南 S3［湖心岛连接线］： 滨湖互通-湖心岛 S3N［北湖心岛支线］： 丽苑—主岛东南—北湖心岛—湖畔村 S4［远古城市连接线］： 滨湖互通-远古城市上-远古城市中-远古城市地下-远古城市二期 S5［西山连接线］： 西山北—西山开发区 S6［山水连接线］： 山水枢纽—山水区管会-山水南 S6W [山水西线]： 平地岛-树林岛 S7［文化区连接线］： 文化区东-山水区委会-纪念堂-文化区换乘站-文化区北-存储中心南 S7W［南村连接线］： 南村—南村枢纽—文化区换乘站 S7N［存储中心连接线］： 存储中心南—中—北 S8［东山连接线］： 新区南站—东山村-小岛-东山隧道北-东山隧道南—东山岛 S8W［袭击村连接线］： 袭击互通—袭击村—峡谷—小岛 S8E [东南连接线] ：待定 S9：待定 S10：待定 S11［新区纵线］S&amp;N S12［新区横线］E&amp;W S13［新区南/北横］S&amp;N S14［新区东/西纵］E&amp;W">
 
@@ -38,10 +38,8 @@
   <meta itemprop="datePublished" content="2025-03-22T15:26:15+00:00">
   <meta itemprop="dateModified" content="2025-03-22T15:26:15+00:00">
   <meta itemprop="wordCount" content="552">
-  <meta itemprop="image" content="//localhost:1313/images/og-image.png"></head>
-<body>
-
-<div class="container"><header>
+  <meta itemprop="image" content="/images/og-image.png"></head>
+<body><div class="container"><header>
 <h1>LCNA Docs</h1><span class="version">Version 25.07.1</span><a href="https://github.com/Zhisheng666" class="github"><i class="fab fa-github"></i></a>
 <p class="description">由LCNA构建的在线知识库</p>
 
@@ -133,8 +131,8 @@ Last updated on 22 Mar 2025
 
 <br>
 Published on 22 Mar 2025
-<br><a href="https://github.com/thingsym/hugo-theme-techdoc/edit/master/DPS/PRS/S_Line.md" class="edit-page"><i class="fas fa-pen-square"></i>&nbsp;Edit on GitHub</a></div><nav class="pagination"><a class="nav nav-prev" href="//localhost:1313/dps/prs/" title="开创铁路系统 PRS"><i class="fas fa-arrow-left" aria-hidden="true"></i>&nbsp;Prev - 开创铁路系统 PRS</a>
-<a class="nav nav-next" href="//localhost:1313/dps/prs/road/" title="公路&amp;大道">Next - 公路&amp;大道 <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+<br><a href="https://github.com/thingsym/hugo-theme-techdoc/edit/master/DPS/PRS/S_Line.md" class="edit-page"><i class="fas fa-pen-square"></i>&nbsp;Edit on GitHub</a></div><nav class="pagination"><a class="nav nav-prev" href="/dps/prs/" title="开创铁路系统 PRS"><i class="fas fa-arrow-left" aria-hidden="true"></i>&nbsp;Prev - 开创铁路系统 PRS</a>
+<a class="nav nav-next" href="/dps/prs/road/" title="公路&amp;大道">Next - 公路&amp;大道 <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
 </nav><footer><p class="powered">Powered by <a href="https://gohugo.io">Hugo</a>. Theme by <a href="https://themes.gohugo.io/hugo-theme-techdoc/">TechDoc</a>. Designed by <a href="https://github.com/thingsym/hugo-theme-techdoc">Thingsym</a>.</p>
 </footer>
 </main>
@@ -142,77 +140,62 @@ Published on 22 Mar 2025
 
 <nav class="open-menu">
 <ul>
-<li class=""><a href="//localhost:1313/">Home</a></li>
+<li class=""><a href="/">Home</a></li>
 
-<li class="parent"><a href="//localhost:1313/dps/">DPS文档</a>
+<li class="parent"><a href="/dps/">DPS文档</a>
   
 <ul class="sub-menu">
 
-<li class=""><a href="//localhost:1313/dps/history/">历史沿革</a>
+<li class=""><a href="/dps/history/">历史沿革</a>
   
 </li>
 
-<li class=""><a href="//localhost:1313/dps/plan/">发展规划</a>
+<li class=""><a href="/dps/plan/">发展规划</a>
   
 </li>
 
-<li class="parent"><a href="//localhost:1313/dps/prs/">开创铁路系统 PRS</a>
+<li class="parent"><a href="/dps/prs/">开创铁路系统 PRS</a>
   
 <ul class="sub-menu">
-<li class="active"><a href="//localhost:1313/dps/prs/s_line/">连接线</a></li>
-<li class=""><a href="//localhost:1313/dps/prs/road/">公路&amp;大道</a></li>
+<li class="active"><a href="/dps/prs/s_line/">连接线</a></li>
+<li class=""><a href="/dps/prs/road/">公路&amp;大道</a></li>
 
-<li class=""><a href="//localhost:1313/dps/prs/railways/">Railway 铁路</a>
+<li class=""><a href="/dps/prs/railways/">Railway 铁路</a>
   
 <ul class="sub-menu">
-<li class=""><a href="//localhost:1313/dps/prs/railways/1/">Railway #1 新龙线</a></li>
-<li class=""><a href="//localhost:1313/dps/prs/railways/2/">Railway #2 西雪线</a></li>
+<li class=""><a href="/dps/prs/railways/1/">Railway #1 新龙线</a></li>
+<li class=""><a href="/dps/prs/railways/2/">Railway #2 西雪线</a></li>
 </ul>
   
 </li>
-<li class=""><a href="//localhost:1313/dps/prs/h_line/">地狱快速</a></li>
-</ul>
-  
-</li>
-
-<li class=""><a href="//localhost:1313/dps/regions/">行政区划</a>
-  
-<ul class="sub-menu">
-
-<li class=""><a href="//localhost:1313/dps/regions/qd/">启东</a>
-  
-</li>
-
-<li class=""><a href="//localhost:1313/dps/regions/nt/">新界</a>
-  
-</li>
-
-<li class=""><a href="//localhost:1313/dps/regions/bhw/">滨海湾</a>
-  
-</li>
-
-<li class=""><a href="//localhost:1313/dps/regions/wb/">西湾</a>
-  
-</li>
-
-<li class=""><a href="//localhost:1313/dps/regions/lm/">龙门</a>
-  
-</li>
-</ul>
-  
-</li>
+<li class=""><a href="/dps/prs/h_line/">地狱快速</a></li>
 </ul>
   
 </li>
 
-<li class=""><a href="//localhost:1313/transmit/">交通</a>
+<li class=""><a href="/dps/regions/">行政区划</a>
   
 <ul class="sub-menu">
 
-<li class=""><a href="//localhost:1313/transmit/metro/">地铁</a>
+<li class=""><a href="/dps/regions/qd/">启东</a>
   
-<ul class="sub-menu">
-<li class=""><a href="//localhost:1313/transmit/metro/dg/">东莞轨道交通</a></li>
+</li>
+
+<li class=""><a href="/dps/regions/nt/">新界</a>
+  
+</li>
+
+<li class=""><a href="/dps/regions/bhw/">滨海湾</a>
+  
+</li>
+
+<li class=""><a href="/dps/regions/wb/">西湾</a>
+  
+</li>
+
+<li class=""><a href="/dps/regions/lm/">龙门</a>
+  
+</li>
 </ul>
   
 </li>
@@ -220,34 +203,14 @@ Published on 22 Mar 2025
   
 </li>
 
-<li class=""><a href="//localhost:1313/it/">信息技术/IT</a>
+<li class=""><a href="/transmit/">交通</a>
   
 <ul class="sub-menu">
 
-<li class=""><a href="//localhost:1313/it/os/">操作系统</a>
-  
-</li>
-
-<li class=""><a href="//localhost:1313/it/pc/">电脑组装</a>
-  
-</li>
-
-<li class=""><a href="//localhost:1313/it/ns/">网络&amp;存储</a>
-  
-</li>
-<li class=""><a href="//localhost:1313/it/lcna_devices/">LCNA的设备列表</a></li>
-</ul>
-  
-</li>
-
-<li class=""><a href="//localhost:1313/medicine/">医学/Medicine</a>
+<li class=""><a href="/transmit/metro/">地铁</a>
   
 <ul class="sub-menu">
-
-<li class=""><a href="//localhost:1313/medicine/psychology/">心理/Psychology</a>
-  
-<ul class="sub-menu">
-<li class=""><a href="//localhost:1313/medicine/psychology/zrjs/">助人技术 主题演讲</a></li>
+<li class=""><a href="/transmit/metro/dg/">东莞轨道交通</a></li>
 </ul>
   
 </li>
@@ -255,15 +218,50 @@ Published on 22 Mar 2025
   
 </li>
 
-<li class=""><a href="//localhost:1313/works/">Zhisheng&#39;s 作品</a>
+<li class=""><a href="/it/">信息技术/IT</a>
   
 <ul class="sub-menu">
 
-<li class=""><a href="//localhost:1313/works/poem/">诗歌/Poem</a>
+<li class=""><a href="/it/os/">操作系统</a>
+  
+</li>
+
+<li class=""><a href="/it/pc/">电脑组装</a>
+  
+</li>
+
+<li class=""><a href="/it/ns/">网络&amp;存储</a>
+  
+</li>
+<li class=""><a href="/it/lcna_devices/">LCNA的设备列表</a></li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/medicine/">医学/Medicine</a>
   
 <ul class="sub-menu">
-<li class=""><a href="//localhost:1313/works/poem/nblyx/">南北连一线</a></li>
-<li class=""><a href="//localhost:1313/works/poem/bhwp/">滨海湾畔</a></li>
+
+<li class=""><a href="/medicine/psychology/">心理/Psychology</a>
+  
+<ul class="sub-menu">
+<li class=""><a href="/medicine/psychology/zrjs/">助人技术 主题演讲</a></li>
+</ul>
+  
+</li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/works/">Zhisheng&#39;s 作品</a>
+  
+<ul class="sub-menu">
+
+<li class=""><a href="/works/poem/">诗歌/Poem</a>
+  
+<ul class="sub-menu">
+<li class=""><a href="/works/poem/nblyx/">南北连一线</a></li>
+<li class=""><a href="/works/poem/bhwp/">滨海湾畔</a></li>
 </ul>
   
 </li>

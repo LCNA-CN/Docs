@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>诗歌/Poem on LCNA Docs</title>
-    <link>//localhost:1313/works/poem/</link>
+    <link>/works/poem/</link>
     <description>Recent content in 诗歌/Poem on LCNA Docs</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 08 Mar 2025 10:22:15 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/works/poem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/works/poem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>南北连一线</title>
-      <link>//localhost:1313/works/poem/nblyx/</link>
+      <link>/works/poem/nblyx/</link>
       <pubDate>Sat, 08 Mar 2025 10:22:15 +0000</pubDate>
-      <guid>//localhost:1313/works/poem/nblyx/</guid>
+      <guid>/works/poem/nblyx/</guid>
       <description>&lt;h3 id=&#34;雪山&#34;&gt;雪山&lt;/h3&gt;&#xA;&lt;p&gt;&lt;font size=5&gt;&lt;strong&gt;矗立在群山之中&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;&#xA;&lt;font size=5&gt;&lt;strong&gt;覆盖着皑皑白雪&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;&#xA;&lt;font size=5&gt;&lt;strong&gt;我愿飞往雪山之巅&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;&#xA;&lt;font size=5&gt;&lt;strong&gt;眺望无边的冰原&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;新区&#34;&gt;新区&lt;/h3&gt;&#xA;&lt;p&gt;&lt;font size=5&gt;&lt;strong&gt;开辟于河畔平原&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;&#xA;&lt;font size=5&gt;&lt;strong&gt;拔地起万丈高楼&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;&#xA;&lt;font size=5&gt;&lt;strong&gt;我想站在内环路边&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;&#xA;&lt;font size=5&gt;&lt;strong&gt;一睹城市的变迁&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>滨海湾畔</title>
-      <link>//localhost:1313/works/poem/bhwp/</link>
+      <link>/works/poem/bhwp/</link>
       <pubDate>Sat, 08 Mar 2025 10:22:15 +0000</pubDate>
-      <guid>//localhost:1313/works/poem/bhwp/</guid>
+      <guid>/works/poem/bhwp/</guid>
       <description>&lt;p&gt;&lt;font size=5&gt;&lt;strong&gt;乘上小舟&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;&#xA;&lt;font size=5&gt;&lt;strong&gt;划起船桨&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;&#xA;&lt;font size=5&gt;&lt;strong&gt;水波激荡&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;&#xA;&lt;font size=5&gt;&lt;strong&gt;海豚相伴&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;font size=5&gt;&lt;strong&gt;它欢快地&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;&#xA;&lt;font size=5&gt;&lt;strong&gt;吹响口哨&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;&#xA;&lt;font size=5&gt;&lt;strong&gt;我奋力地&lt;/strong&gt;&lt;/font&gt;&lt;br&gt;&#xA;&lt;font size=5&gt;&lt;strong&gt;驶向彼岸&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;</description>
     </item>
   </channel>
