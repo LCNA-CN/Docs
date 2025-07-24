@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>操作系统 on LCNA Docs</title>
-    <link>/it/os/</link>
+    <link>//localhost:1313/it/os/</link>
     <description>Recent content in 操作系统 on LCNA Docs</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="/it/os/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/it/os/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

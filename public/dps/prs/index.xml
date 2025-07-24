@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>开创铁路系统 PRS on LCNA Docs</title>
-    <link>/dps/prs/</link>
+    <link>//localhost:1313/dps/prs/</link>
     <description>Recent content in 开创铁路系统 PRS on LCNA Docs</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 22 Mar 2025 15:26:15 +0000</lastBuildDate>
-    <atom:link href="/dps/prs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/dps/prs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>连接线</title>
-      <link>/dps/prs/s_line/</link>
+      <link>//localhost:1313/dps/prs/s_line/</link>
       <pubDate>Sat, 22 Mar 2025 15:26:15 +0000</pubDate>
-      <guid>/dps/prs/s_line/</guid>
+      <guid>//localhost:1313/dps/prs/s_line/</guid>
       <description>&lt;h2 id=&#34;连接线是由数条轨道组成的系统大多采用地下单轨行车设计部分会有所不同&#34;&gt;连接线是由数条轨道组成的系统，大多采用地下单轨行车设计，部分会有所不同。&lt;/h2&gt;&#xA;&lt;h3 id=&#34;最后修改于20250425-saturday&#34;&gt;最后修改于：2025.04.25 Saturday&lt;/h3&gt;&#xA;&lt;h4 id=&#34;s1中心纵线&#34;&gt;S1［中心纵线］：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;中心南站 —畔湾—丽苑—主岛中—北山南&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s1n中心北线&#34;&gt;S1N［中心北线］：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;中心站—北山西—北山南—北山站&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s1w-畔湾西支线&#34;&gt;S1W [畔湾西支线]：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;畔湾-畔湾西&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s2中心横线&#34;&gt;S2［中心横线］：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;主岛西—溺尸塔—区管会—存储中心—中心站—主岛中—主岛东—主岛东南&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s3湖心岛连接线&#34;&gt;S3［湖心岛连接线］：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;滨湖互通-湖心岛&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s3n北湖心岛支线&#34;&gt;S3N［北湖心岛支线］：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;丽苑—主岛东南—北湖心岛—湖畔村&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s4远古城市连接线&#34;&gt;S4［远古城市连接线］：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;滨湖互通-远古城市上-远古城市中-远古城市地下-远古城市二期&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s5西山连接线&#34;&gt;S5［西山连接线］：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;西山北—西山开发区&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s6山水连接线&#34;&gt;S6［山水连接线］：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;山水枢纽—山水区管会-山水南&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s6w-山水西线&#34;&gt;S6W [山水西线]：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;平地岛-树林岛&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s7文化区连接线&#34;&gt;S7［文化区连接线］：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;文化区东-山水区委会-纪念堂-文化区换乘站-文化区北-存储中心南&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s7w南村连接线&#34;&gt;S7W［南村连接线］：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;南村—南村枢纽—文化区换乘站&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s7n存储中心连接线&#34;&gt;S7N［存储中心连接线］：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;存储中心南—中—北&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s8东山连接线&#34;&gt;S8［东山连接线］：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;新区南站—东山村-小岛-东山隧道北-东山隧道南—东山岛&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s8w袭击村连接线&#34;&gt;S8W［袭击村连接线］：&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;袭击互通—袭击村—峡谷—小岛&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;s8e-东南连接线-待定&#34;&gt;S8E [东南连接线] ：待定&lt;/h4&gt;&#xA;&lt;h4 id=&#34;s9待定&#34;&gt;S9：待定&lt;/h4&gt;&#xA;&lt;h4 id=&#34;s10待定&#34;&gt;S10：待定&lt;/h4&gt;&#xA;&lt;h4 id=&#34;s11新区纵线sn&#34;&gt;S11［新区纵线］S&amp;amp;N&lt;/h4&gt;&#xA;&lt;h4 id=&#34;s12新区横线ew&#34;&gt;S12［新区横线］E&amp;amp;W&lt;/h4&gt;&#xA;&lt;h4 id=&#34;s13新区南北横sn&#34;&gt;S13［新区南/北横］S&amp;amp;N&lt;/h4&gt;&#xA;&lt;h4 id=&#34;s14新区东西纵ew&#34;&gt;S14［新区东/西纵］E&amp;amp;W&lt;/h4&gt;</description>
     </item>
     <item>
       <title>公路&amp;大道</title>
-      <link>/dps/prs/road/</link>
+      <link>//localhost:1313/dps/prs/road/</link>
       <pubDate>Sat, 22 Mar 2025 00:26:15 +0000</pubDate>
-      <guid>/dps/prs/road/</guid>
+      <guid>//localhost:1313/dps/prs/road/</guid>
       <description>&lt;h4 id=&#34;最后修改于-20250708-tuesday&#34;&gt;最后修改于 2025.07.08 Tuesday&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;斜线&lt;/em&gt; 表示未开通&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;g1-滨海湾大道&#34;&gt;G1 滨海湾大道&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;全线采用快慢线设计，由以下部分组成：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;S101滨西通道&lt;/strong&gt;（东望洋立交-滨湖互通，全线）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;S102湖心岛大道&lt;/strong&gt;（滨湖互通-东区立交，部分）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Q1新海快速&lt;/strong&gt;（东区立交-新区东南，部分）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;S105开创大道&lt;/strong&gt;（新区东南-新区西南，全线）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;s101-滨西通道由西向东&#34;&gt;S101 滨西通道（由西向东）：&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;采用快慢线设计，粗体标注的为快线出口&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>地狱快速</title>
-      <link>/dps/prs/h_line/</link>
+      <link>//localhost:1313/dps/prs/h_line/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-      <guid>/dps/prs/h_line/</guid>
+      <guid>//localhost:1313/dps/prs/h_line/</guid>
       <description>&lt;h3 id=&#34;hx地狱快速是在地狱中直接连接两个地点的轨道位于基岩上层由于地狱移动1格等于在主世界移动8格所以可以粗略地认为速度是主世界中轨道的8倍&#34;&gt;Hx/地狱快速是在地狱中直接连接两个地点的轨道（位于基岩上层），由于地狱移动1格等于在主世界移动8格，所以可以粗略地认为速度是主世界中轨道的8倍！&lt;/h3&gt;&#xA;&lt;h4 id=&#34;h1-中心-猪灵堡垒末地要塞&#34;&gt;H1 中心-猪灵堡垒（末地要塞）&lt;/h4&gt;&#xA;&lt;h4 id=&#34;h2-中心-地狱堡垒&#34;&gt;H2 中心-地狱堡垒&lt;/h4&gt;</description>
     </item>
   </channel>

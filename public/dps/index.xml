@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DPS文档 on LCNA Docs</title>
-    <link>/dps/</link>
+    <link>//localhost:1313/dps/</link>
     <description>Recent content in DPS文档 on LCNA Docs</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="/dps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/dps/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

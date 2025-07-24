@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Railway 铁路 on LCNA Docs</title>
-    <link>/dps/prs/railways/</link>
+    <link>//localhost:1313/dps/prs/railways/</link>
     <description>Recent content in Railway 铁路 on LCNA Docs</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
-    <atom:link href="/dps/prs/railways/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/dps/prs/railways/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Railway #1 新龙线</title>
-      <link>/dps/prs/railways/1/</link>
+      <link>//localhost:1313/dps/prs/railways/1/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-      <guid>/dps/prs/railways/1/</guid>
+      <guid>//localhost:1313/dps/prs/railways/1/</guid>
       <description>&lt;h3 id=&#34;railway-1-新龙线-new-loong-linenll于dps-20重新规划南北贯穿新界-滨海湾-龙门-三市&#34;&gt;Railway #1 新龙线 New Loong Line（NLL）于DPS 2.0重新规划，南北贯穿新界-滨海湾-龙门 三市&lt;/h3&gt;&#xA;&lt;h3 id=&#34;目前已开通区间中心bhc-蘑菇岛北min8个车站逾4000格&#34;&gt;目前已开通区间：中心（BHC）—— 蘑菇岛北（MIN），8个车站，逾4000格&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;已开通车站由北向南&#34;&gt;已开通车站（由北向南）：&lt;/h2&gt;&#xA;&lt;h3 id=&#34;南一期&#34;&gt;南一期:&lt;/h3&gt;&#xA;&lt;h4 id=&#34;1中心-bhc&#34;&gt;1.中心 BHC&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;转乘 S2 新区横线、S103 海龟公路&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;2中心南-bcs&#34;&gt;2.中心南 BCS&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;转乘 S1 中心纵线&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;3管理中心-bmc&#34;&gt;3.管理中心 BMC&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;转乘 S101 滨海大道、S103 海龟公路&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;南二期&#34;&gt;南二期：&lt;/h3&gt;&#xA;&lt;h4 id=&#34;4山水北-ssn&#34;&gt;4.山水北 SSN&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;转乘 S104N 山水公路-北段&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;5南村-svz&#34;&gt;5.南村 SVZ&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;转乘 S7W 南村连接线、S104S 山水公路-南段&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;6沙漠北-smn&#34;&gt;6.沙漠北 SMN&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;（暂无道路接驳）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;7沙漠南-sms&#34;&gt;7.沙漠南 SMS&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;转乘 S201 沙城公路&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;8蘑菇岛北-mgn&#34;&gt;8.蘑菇岛北 MGN&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;（暂无道路接驳）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;修建规划中的车站&#34;&gt;修建、规划中的车站：&lt;/h2&gt;&#xA;&lt;h3 id=&#34;南三期&#34;&gt;南三期：&lt;/h3&gt;&#xA;&lt;h4 id=&#34;蘑菇岛南-mgs&#34;&gt;蘑菇岛南 MGS&lt;/h4&gt;&#xA;&lt;h4 id=&#34;海洋-noz&#34;&gt;海洋 NOZ&lt;/h4&gt;&#xA;&lt;h3 id=&#34;北段&#34;&gt;北段：&lt;/h3&gt;&#xA;&lt;h4 id=&#34;西区北-wrn&#34;&gt;西区北 WRN&lt;/h4&gt;&#xA;&lt;h4 id=&#34;龙门-lmz&#34;&gt;龙门 LMZ&lt;/h4&gt;&#xA;&lt;h4 id=&#34;林地府邸-fmz&#34;&gt;林地府邸 FMZ&lt;/h4&gt;</description>
     </item>
     <item>
       <title>Railway #2 西雪线</title>
-      <link>/dps/prs/railways/2/</link>
+      <link>//localhost:1313/dps/prs/railways/2/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-      <guid>/dps/prs/railways/2/</guid>
+      <guid>//localhost:1313/dps/prs/railways/2/</guid>
       <description>&lt;h3 id=&#34;railway-2-西雪线-west-snow-linewsl是dps的第二条长途铁路东西贯穿龙门-滨海湾-西湾-三市&#34;&gt;Railway #2 西雪线 West Snow Line（WSL）是DPS的第二条长途铁路，东西贯穿龙门-滨海湾-西湾 三市。&lt;/h3&gt;&#xA;&lt;h3 id=&#34;目前已开通区间中心bhc-东区西min4个车站逾2000格&#34;&gt;目前已开通区间：中心（BHC）—— 东区西（MIN），4个车站，逾2000格&lt;/h3&gt;&#xA;&lt;h2 id=&#34;已开通车站由东向西&#34;&gt;已开通车站（由东向西）：&lt;/h2&gt;&#xA;&lt;h3 id=&#34;东段&#34;&gt;东段：&lt;/h3&gt;&#xA;&lt;h4 id=&#34;1东区西-erc&#34;&gt;1.东区西 ERC&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;转乘 S8 东山连接线&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;2袭击塔-xjt&#34;&gt;2.袭击塔 XJT&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;转乘 S102 湖心岛大道&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;3北山-nmz&#34;&gt;3.北山 NMZ&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;转乘 S1N 中心北线&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;4中心-bhc&#34;&gt;4.中心 BHC&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;换乘 R1、S103海龟公路、S2中心横线&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;修建规划中的车站&#34;&gt;修建、规划中的车站：&lt;/h2&gt;&#xA;&lt;h3 id=&#34;西段&#34;&gt;西段：&lt;/h3&gt;&#xA;&lt;h4 id=&#34;西区南-wrs&#34;&gt;西区南 WRS&lt;/h4&gt;&#xA;&lt;h4 id=&#34;江北东-rne&#34;&gt;江北东 RNE&lt;/h4&gt;&#xA;&lt;h4 id=&#34;江北西-rnw&#34;&gt;江北西 RNW&lt;/h4&gt;&#xA;&lt;h3 id=&#34;东段-1&#34;&gt;东段：&lt;/h3&gt;&#xA;&lt;h4 id=&#34;北正东-bze&#34;&gt;北正东 BZE&lt;/h4&gt;&#xA;&lt;h4 id=&#34;爱心岛南-lis&#34;&gt;爱心岛南 LIS&lt;/h4&gt;&#xA;&lt;h4 id=&#34;雪山-smz&#34;&gt;雪山 SMZ&lt;/h4&gt;</description>
     </item>
   </channel>
