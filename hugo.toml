@@ -48,7 +48,7 @@ enableMissingTranslationPlaceholders = false
     menu_style = "open-menu" # "open-menu" or "slide-menu" or "" blank is as no sidebar
 
     # Date format
-    dateformat = "" # default "8 Jun 2025"
+    dateformat = "" # default "2 Jan 2006"
     # See the format reference https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
 
     # path name excluded from documentation menu

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>心理/Psychology on LCNA Docs</title>
-    <link>https://docs.lcna.cn/medicine/psychology/</link>
+    <link>http://localhost:1313/medicine/psychology/</link>
     <description>Recent content in 心理/Psychology on LCNA Docs</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 26 Apr 2025 09:26:15 +0800</lastBuildDate>
-    <atom:link href="https://docs.lcna.cn/medicine/psychology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/medicine/psychology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>助人技术 主题演讲</title>
-      <link>https://docs.lcna.cn/medicine/psychology/zrjs/</link>
+      <link>http://localhost:1313/medicine/psychology/zrjs/</link>
       <pubDate>Sat, 26 Apr 2025 09:26:15 +0800</pubDate>
-      <guid>https://docs.lcna.cn/medicine/psychology/zrjs/</guid>
+      <guid>http://localhost:1313/medicine/psychology/zrjs/</guid>
       <description>&lt;h2 id=&#34;助人技术&#34;&gt;助人技术&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;By 心灵之羽 秘书部部长 Zhisheng&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;目录contents&#34;&gt;目录/Contents&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;1. 医学心理学 &amp;amp; 精神病学&lt;/strong&gt;&#xA;&lt;strong&gt;Medical Psychology &amp;amp; Psychiatry&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2. 我的想法&lt;/strong&gt;&#xA;&lt;strong&gt;My Thoughts&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;3. 助人&lt;/strong&gt;&#xA;&lt;strong&gt;Helping&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;4. 成为一名助人者&lt;/strong&gt;&#xA;&lt;strong&gt;Becoming a Helper&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;医学心理学--精神病学&#34;&gt;医学心理学 &amp;amp; 精神病学&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;最终目的都是为了促进人类的心理健康。&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;医学心理学通过研究心理因素对健康的影响，致力于预防心理问题的发生，提高人们的心理健康水平；精神病学则专注于对已经患有精神疾病的患者进行诊断、治疗和康复，帮助他们恢复健康，回归社会。&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Example&lt;/em&gt;  抑郁症治疗手段：&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
