@@ -1,4 +1,4 @@
-baseURL = "https://docs.lcna.cn"
+# baseURL = "https://docs.lcna.cn"
 
 languageCode = "zh-cn"
 DefaultContentLanguage = "zh-cn"
