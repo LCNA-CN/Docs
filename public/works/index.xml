@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhisheng&#39;s 作品 on LCNA Docs</title>
-    <link>//localhost:1313/works/</link>
+    <link>/works/</link>
     <description>Recent content in Zhisheng&#39;s 作品 on LCNA Docs</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/works/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/works/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

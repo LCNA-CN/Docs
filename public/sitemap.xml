@@ -2,110 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/dps/history/</loc>
+    <loc>/dps/history/</loc>
     <lastmod>2025-03-08T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/</loc>
+    <loc>/dps/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/plan/</loc>
+    <loc>/dps/plan/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/regions/qd/</loc>
+    <loc>/dps/regions/qd/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/prs/</loc>
+    <loc>/dps/prs/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/regions/nt/</loc>
+    <loc>/dps/regions/nt/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/regions/bhw/</loc>
+    <loc>/dps/regions/bhw/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/regions/</loc>
+    <loc>/dps/regions/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/regions/wb/</loc>
+    <loc>/dps/regions/wb/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/regions/lm/</loc>
+    <loc>/dps/regions/lm/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/transmit/</loc>
+    <loc>/transmit/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/it/</loc>
+    <loc>/it/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/it/os/</loc>
+    <loc>/it/os/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/it/pc/</loc>
+    <loc>/it/pc/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/it/ns/</loc>
+    <loc>/it/ns/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/it/lcna_devices/</loc>
+    <loc>/it/lcna_devices/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/transmit/metro/dg/</loc>
+    <loc>/transmit/metro/dg/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/medicine/</loc>
+    <loc>/medicine/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/transmit/metro/</loc>
+    <loc>/transmit/metro/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/works/</loc>
+    <loc>/works/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/medicine/psychology/zrjs/</loc>
+    <loc>/medicine/psychology/zrjs/</loc>
     <lastmod>2025-04-26T09:26:15+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/prs/s_line/</loc>
+    <loc>/dps/prs/s_line/</loc>
     <lastmod>2025-03-22T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/prs/road/</loc>
+    <loc>/dps/prs/road/</loc>
     <lastmod>2025-03-22T00:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/works/poem/nblyx/</loc>
+    <loc>/works/poem/nblyx/</loc>
     <lastmod>2025-03-08T10:22:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/works/poem/bhwp/</loc>
+    <loc>/works/poem/bhwp/</loc>
     <lastmod>2025-03-08T10:22:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dpms/</loc>
+    <loc>/dpms/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2019-10-26T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/prs/railways/1/</loc>
+    <loc>/dps/prs/railways/1/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/prs/railways/2/</loc>
+    <loc>/dps/prs/railways/2/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/prs/railways/</loc>
+    <loc>/dps/prs/railways/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/dps/prs/h_line/</loc>
+    <loc>/dps/prs/h_line/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/medicine/psychology/</loc>
+    <loc>/medicine/psychology/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/works/poem/</loc>
+    <loc>/works/poem/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

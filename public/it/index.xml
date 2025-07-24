@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>信息技术/IT on LCNA Docs</title>
-    <link>//localhost:1313/it/</link>
+    <link>/it/</link>
     <description>Recent content in 信息技术/IT on LCNA Docs</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/it/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/it/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LCNA的设备列表</title>
-      <link>//localhost:1313/it/lcna_devices/</link>
+      <link>/it/lcna_devices/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-      <guid>//localhost:1313/it/lcna_devices/</guid>
+      <guid>/it/lcna_devices/</guid>
       <description>&lt;h3 id=&#34;datacenter-24&#34;&gt;DataCenter 24&lt;/h3&gt;&#xA;&lt;h4 id=&#34;承载dps服务器csd服务器等服务&#34;&gt;承载DPS服务器、CSD服务器等服务&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;主板：华南金牌 H610m-HD&lt;/li&gt;&#xA;&lt;li&gt;CPU：Intel Core i5-12400 （6C12T，Boost up to 4.3GHz）&lt;/li&gt;&#xA;&lt;li&gt;内存：DDR4 2666MHz 16Gx2（Intel专用条，镁光颗粒）&lt;/li&gt;&#xA;&lt;li&gt;显卡：Intel Graphics UHD 730&lt;/li&gt;&#xA;&lt;li&gt;散热：玄冰400S（采用重力固定）&lt;/li&gt;&#xA;&lt;li&gt;电源：先马 额定300W&lt;/li&gt;&#xA;&lt;li&gt;硬盘：1. 台电 8GU盘（UNRAID） 2. 三星PM981A 500G（高速） 3. 西部数据 4T紫盘（海康威视版，低速）&lt;/li&gt;&#xA;&lt;li&gt;网卡：1. 瑞昱 RJ45 1Gbps（板载） 2. Mellanox SFP+ 10Gbps（PCIe x8）&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
